@@ -73,24 +73,19 @@
 <br><br>
 
 ## Working Video:
-<video width="320" height="240" controls>
-  <source src="/readme-essentials/general.mp4" type="video/mp4">
-</video>
+https://github.com/Chackoseb/Arduino-Air-Quality-Monitor/assets/95061303/c34dd3ff-ca90-436e-9900-6eef8f8a72e0
+
 <br><br>
 
 ### Detecting Smoke:
-<video width="320" height="240" controls>
-  <source src="/readme-essentials/smoke.mp4" type="video/mp4">
-</video>
+https://github.com/Chackoseb/Arduino-Air-Quality-Monitor/assets/95061303/0b2b630f-3d72-4c66-8bd0-0deeaa730433
+
 <br><br>
 
 ### Detecting Gas:
-<video width="320" height="240" controls>
-  <source src="/readme-essentials/gas.mp4" type="video/mp4">
-</video>
+https://github.com/Chackoseb/Arduino-Air-Quality-Monitor/assets/95061303/99a524ff-2633-4509-9259-ffc7b0f57fba
 
-
-<br>
+<br><br>
 
 ## Special Thanks:
  [MakerGuides](https://www.makerguides.com/)

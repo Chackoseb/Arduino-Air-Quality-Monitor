@@ -25,12 +25,12 @@
 <br>
 
 ## Software Requirements
- &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
+ &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/readme-essentials/arduino-ide-logo.svg" width="40"></a>
 
 <br><br>
 
 ## Block Diagram
- <img src="/readme-essentials/block-diagram" width="600"></a>
+ <img src="/readme-essentials/block-diagram.png" width="600"></a>
  <br>
 
 ## Implementation
